@@ -1,2 +1,2 @@
 # VM
-Simple virtual machine
+Simple lc3  virtual machine
